@@ -1,3 +1,4 @@
+#This is N-Queen program in Python
 def valid_move(chess, col, row):
     c =1
     for i in range(col-1, -1, -1):
